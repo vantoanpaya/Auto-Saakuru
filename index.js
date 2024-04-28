@@ -8,7 +8,7 @@ const { getTasks, claimTask, getProfile } = require('./api');
     process.stdout.write('\x1Bc');
     console.log(colors.cyan('========================================'));
     console.log(colors.cyan('=          Saakuru Gainz Bot           ='));
-    console.log(colors.cyan('=     Clone by DangVanToan      ='));
+    console.log(colors.cyan('=      by DangVanToan      ='));
     console.log(colors.cyan('=         ='));
     console.log(colors.cyan('========================================'));
     console.log();
