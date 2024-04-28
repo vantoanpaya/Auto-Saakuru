@@ -8,8 +8,8 @@ const { getTasks, claimTask, getProfile } = require('./api');
     process.stdout.write('\x1Bc');
     console.log(colors.cyan('========================================'));
     console.log(colors.cyan('=          Saakuru Gainz Bot           ='));
-    console.log(colors.cyan('=     Created by HappyCuanAirdrop      ='));
-    console.log(colors.cyan('=    https://t.me/HappyCuanAirdrop     ='));
+    console.log(colors.cyan('=     Clone by DangVanToan      ='));
+    console.log(colors.cyan('=         ='));
     console.log(colors.cyan('========================================'));
     console.log();
 
